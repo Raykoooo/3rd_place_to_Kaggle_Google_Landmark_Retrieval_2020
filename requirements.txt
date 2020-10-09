@@ -1,0 +1,13 @@
+torch==1.1.0
+tensorflow==2.3.0
+numpy
+opencv_python
+imgaug
+Pillow
+pyhocon
+pytorch_metric_learning==0.9.85
+PyYAML
+rfconv
+scikit_learn
+onnx
+onnx-tf

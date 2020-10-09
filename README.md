@@ -23,8 +23,8 @@ $ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--c
 
 ## Data
 Data directory structure:
-- `data_list/label_81313.txt`: GLD v2 clean 
-- `data_list/label_sub_212843.txt`: GLD v2 cluster
+- `data_list/label_81313.txt`: GLD v2 clean, download from https://drive.google.com/file/d/1IH1nMml9GjIrKVloF9AZO06E28jnXP75/view?usp=sharing
+- `data_list/label_sub_212843.txt`: GLD v2 cluster, download from https://drive.google.com/file/d/1pdlvnzXOt42wVDbxh9tlPtrjYIaIPVby/view?usp=sharing
 - `train`: GLD v2 train, download from https://github.com/cvdfoundation/google-landmark
 
 Download pretrained models (ImageNet)
